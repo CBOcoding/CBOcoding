@@ -1,3 +1,4 @@
+![CBO banner GitHub](https://github.com/user-attachments/assets/56be11da-f176-43c5-98a5-b3246845cdfa)
 ## Ciao, I'm Claudio! 👋  
 🎓 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school  
 🖥️ Learning programming with a focus on **C** and **C++**  
