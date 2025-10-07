@@ -1,9 +1,9 @@
 ![CBO banner GitHub](https://github.com/user-attachments/assets/56be11da-f176-43c5-98a5-b3246845cdfa)
 ## Ciao, I'm Claudio! 👋  
-🎓 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school  
-🖥️ Learning programming with a focus on **C** and **C++**  
-📚 Salesforce Certified Administrator, with plans to explore the **Salesforce Developer** path, as well as **Flutter/Dart** and **Python**  
-🌐 Experienced in creating websites and passionate about crafting seamless digital solutions  
+🎓 Learned to code at [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school  
+🖥️ Programming with a focus on **C** and **C++**  
+📚 Salesforce Certified Administrator & AI Associate, with plans to explore the **Salesforce Developer** path, as well as **Flutter/Dart** and **Python**  
+🌐 Experienced in creating websites and e-commerce, passionate about crafting seamless digital solutions  
 
 ### My Background:  
 🔹 Over a decade of experience as an entrepreneur in Finland, specializing in **B2C** and **B2B marketing**  
