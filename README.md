@@ -7,7 +7,7 @@
 
 ### My Background:  
 🔹 Over a decade of experience as an entrepreneur in Finland, specializing in **B2C**, **B2B**, **Business Development**, and **Marketing**  
-🔹 Expert in Artificial Intelligence
+🔹 Expert in Artificial Intelligence  
 🔹 Proficient with tools like **Salesforce**, **HubSpot**, **Figma**, **Adobe**, and **Affinity Suite**  
 🔹 Academic achievements:  
   - Bachelor's in International Business (Savonia University, 2020)  
