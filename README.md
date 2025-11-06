@@ -2,7 +2,7 @@
 ## Ciao, I'm Claudio! 👋  
 🎓 Learned to code at [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school  
 🖥️ Programming with a focus on **C** and **C++**  
-📚 Salesforce Certified Administrator & AI Associate, with plans to explore the **Salesforce Developer** path, as well as **Flutter/Dart** and **Python**  
+📚 Salesforce Certified Administrator & AI Associate, with plans to explore the **Salesforce Developer** path, as well as **Java, JavaScript, Python, Go, Flutter/Dart** and so on.  
 🌐 Experienced in creating websites and e-commerce, passionate about crafting seamless digital solutions  
 
 ### My Background:  
