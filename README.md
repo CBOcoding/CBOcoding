@@ -10,6 +10,7 @@
 🔹 Expert in Artificial Intelligence  
 🔹 Proficient with tools like **Salesforce**, **HubSpot**, **Figma**, **Adobe**, and **Affinity Suite**  
 🔹 Academic achievements:  
+  - Hive Helsinki coding school (graduating in Jan 2026)
   - Bachelor's in International Business (Savonia University, 2020)  
   - Master's in Economics and Finance with a specialization in Finance, Banking, and Insurance (Università Politecnica delle Marche, 2012)  
   - Bachelor's in Economics and Finance (Università Politecnica delle Marche, 2011)  
