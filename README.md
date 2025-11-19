@@ -1,3 +1,152 @@
+<!-- Custom Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1b27,100:3b82f6&height=250&section=header&text=Claudio%20Borromeii&fontSize=55&animation=fadeIn&fontColor=ffffff&desc=Developer%20%7C%2042%20Student%20%7C%20Full-Stack%20In%20Progress&descSize=18&descAlign=50&descAlignY=70" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3B82F6&size=24&center=true&vCenter=true&width=550&lines=42+Student+at+Hive+Helsinki;C+%26+C%2B%2B+Developer;Salesforce+Certified+Admin;Salesforce+Certified+AI+Associate;Future+Full-Stack+Engineer;Linux+Enjoyer+%7C+Web+Dev+On+The+Way" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Student at **42 Helsinki (Hive Helsinki)**
+- 🧰 **C / C++ Developer**
+- 📚 **Salesforce Certified Administrator & AI Associate**
+- 🌐 Experienced in creating **websites & e-commerce**
+- 🖥️ Comfortable using **Linux, macOS & Windows**
+- 🌱 Currently learning full-stack development through **FullStackOpen**
+- 🎯 Goal: Build clean, efficient, well-tested systems
+
+---
+
+## 🧰 Tech Stack
+
+### 🔷 Core Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />
+</p>
+
+<!-- C, C++, Git, Linux, Docker -->
+
+### 🌐 FullStackOpen — Skills in Progress
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+  <img src="https://skillicons.dev/icons?i=redux" width="50" />
+  <img src="https://skillicons.dev/icons?i=webpack" width="50" />
+  <img src="https://skillicons.dev/icons?i=jest" width="50" />
+  <img src="https://skillicons.dev/icons?i=graphql" width="50" />
+</p>
+
+<!-- JS, TS, React, Node, Express, MongoDB, Redux, Webpack, Jest, GraphQL -->
+
+
+---
+# 🏫 42 School Projects
+
+<details open>
+<summary>🐚 Core C Programming</summary>
+
+| Project | Description |
+|--------|--------|
+| Libft | Rewriting standard C library functions  |
+| Printf | Full recreation of `printf()`  |
+| Get Next Line | File reading with static buffers |
+| Born2beroot | Linux system administration |
+
+</details>
+
+<details open>
+<summary>🧮 Algorithms & Data Structures</summary>
+
+| Project | Description |
+|--------|--------|
+| Push Swap | Sorting algorithms using stack  |
+
+</details>
+
+<details open>
+<summary>🎨 Graphics & Visualization</summary>
+
+| Project | Description |
+|--------|--------|
+| So Long | MLX-based 2D game |
+| Cub 3D | Reycasting - simulating 3D in a 2D game |
+
+</details>
+
+<details open>
+<summary>🐚 Shell & System Programming</summary>
+
+| Project | Description |
+|--------|--------|
+| Ministalk | Unix signals to exchange data  |
+| Minishell | Shell with pipelines, redirects, signals  |
+| Philosophers | Multithreading, deadlock avoidance |
+| Inception | Docker + System Administration  |
+
+</details>
+
+<details open>
+<summary>🖥️ C++ Programming</summary>
+
+| Project | Description |
+|--------|--------|
+| CPP Modules | Modern C++ OOP |
+
+</details>
+
+<details open>
+<summary>🌐 Networking & Web</summary>
+
+| Project | Description |
+|--------|--------|
+| Net Practice | Networking fundamentals |
+| Web Server | Multiple clients HTTP server |
+| Transcendence | ⏳ Pending |
+
+</details>
+
+<details open>
+<summary>⭐ Extra</summary>
+
+| Project | Description |
+|--------|--------|
+| Wordle Rush | Wordle solver, assistant, and decision engine |
+
+</details>
+
+---
+## 🔗 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/claudioborromei/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="https://github.com/CBOcoding">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  <a href="mailto:claudioborromei@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/claudioborromei">
+    <img src="https://github.com/user-attachments/assets/salesforce" width="50" />
+  </a>
+</p>
+
+---
+
+
+<!---
 ![CBO banner GitHub](https://github.com/user-attachments/assets/56be11da-f176-43c5-98a5-b3246845cdfa)
 ## Ciao, I'm Claudio! 👋  
 🎓 Learned to code at [Hive Helsinki](https://www.hive.fi/en/) (42 Network) coding school  
@@ -27,7 +176,7 @@
 You'll find me: 🏔️ Hiking | 🍝 Cooking (especially a good Carbonara!) | 🏐 Playing Volleyball | 🏗️ 3D Designing & Printing  
 
 
-<!---
+
 - 👋 Hi, I’m @CBOcoding
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
