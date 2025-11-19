@@ -1,25 +1,10 @@
-<!-- Custom Banner -->
+## Ciao, I'm Claudio! 👋  
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1b27,100:3b82f6&height=250&section=header&text=Claudio%20Borromeii&fontSize=55&animation=fadeIn&fontColor=ffffff&desc=Developer%20%7C%2042%20Student%20%7C%20Full-Stack%20In%20Progress&descSize=18&descAlign=50&descAlignY=70" />
+  <strong>Developer & 42 Hive Helsinki Student</strong><br>
+  <em>C, C++, Linux/macOS/Windows | Future Full-Stack Engineer</em>
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3B82F6&size=24&center=true&vCenter=true&width=550&lines=42+Student+at+Hive+Helsinki;C+%26+C%2B%2B+Developer;Salesforce+Certified+Admin;Salesforce+Certified+AI+Associate;Future+Full-Stack+Engineer;Linux+Enjoyer+%7C+Web+Dev+On+The+Way" />
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 Student at **42 Helsinki (Hive Helsinki)**
-- 🧰 **C / C++ Developer**
-- 📚 **Salesforce Certified Administrator & AI Associate**
-- 🌐 Experienced in creating **websites & e-commerce**
-- 🖥️ Comfortable using **Linux, macOS & Windows**
-- 🌱 Currently learning full-stack development through **FullStackOpen**
-- 🎯 Goal: Build clean, efficient, well-tested systems
-
----
 
 ## 🧰 Tech Stack
 
@@ -50,6 +35,17 @@
 
 <!-- JS, TS, React, Node, Express, MongoDB, Redux, Webpack, Jest, GraphQL -->
 
+
+---
+
+## 🚀 About Me
+- 🎓 Student at **42 Helsinki (Hive Helsinki)**
+- 🧰 **C / C++ Developer**
+- 📚 **Salesforce Certified Administrator & AI Associate**
+- 🌐 Experienced in creating **websites & e-commerce**
+- 🖥️ Comfortable using **Linux, macOS & Windows**
+- 🌱 Currently learning full-stack development through **FullStackOpen**
+- 🎯 Goal: Build clean, efficient, well-tested systems
 
 ---
 # 🏫 42 School Projects
@@ -139,12 +135,25 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
   <a href="https://www.salesforce.com/trailblazer/claudioborromei">
-    <img src="https://github.com/user-attachments/assets/salesforce" width="50" />
+    <img src="https://github.com/user-attachments/assets/salesforce.png" width="50" />
   </a>
 </p>
 
 ---
 
+<!-- Custom Banner -->
+<!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:3b82f6&height=250&section=header&text=Claudio%20Borromei&fontSize=55&animation=fadeIn&fontColor=ffffff&desc=Developer%20%7C%2042%20Student%20%7C%20Full-Stack%20In%20Progress&descSize=18&descAlign=50&descAlignY=70" />
+</p>
+-->
+
+<!-- Typing Animation -->
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3B82F6&size=24&center=true&vCenter=true&width=550&lines=42+Student+at+Hive+Helsinki;C+%26+C%2B%2B+Developer;Salesforce+Certified+Admin;Salesforce+Certified+AI+Associate;Future+Full-Stack+Engineer;Web+Dev+On+The+Way" />
+</p>
+-->
 
 <!---
 ![CBO banner GitHub](https://github.com/user-attachments/assets/56be11da-f176-43c5-98a5-b3246845cdfa)
