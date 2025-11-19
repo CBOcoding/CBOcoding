@@ -135,7 +135,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
   <a href="https://www.salesforce.com/trailblazer/claudioborromei">
-    <img src="https://github.com/user-attachments/assets/salesforce.png" width="50" />
+    <img  alt="Salesforce Logo" src="https://github.com/user-attachments/assets/57eacfc2-ceb2-4e18-a190-9d71bed422a9" width="50" />
   </a>
 </p>
 
