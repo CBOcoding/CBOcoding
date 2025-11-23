@@ -109,7 +109,7 @@
 |--------|--------|
 | Net Practice | Networking fundamentals |
 | Web Server | Multiple clients HTTP server |
-| Transcendence | ⏳ Pending |
+| Transcendence | Full-stack project integrating a game |
 
 </details>
 
