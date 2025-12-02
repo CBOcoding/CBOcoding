@@ -9,36 +9,96 @@
 ## 🧰 Tech Stack
 
 ### 🔷 Core Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" width="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
-  <img src="https://skillicons.dev/icons?i=git" width="50" />
-  <img src="https://skillicons.dev/icons?i=linux" width="50" />
-  <img src="https://skillicons.dev/icons?i=docker" width="50" />
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
+<p align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+<br>GCP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
   <a href="https://www.salesforce.com/trailblazer/claudioborromei">
-    <img  alt="Salesforce Logo" src="https://github.com/user-attachments/assets/57eacfc2-ceb2-4e18-a190-9d71bed422a9" width="50" />
+<img alt="Salesforce Logo" src="https://github.com/user-attachments/assets/57eacfc2-ceb2-4e18-a190-9d71bed422a9" width="48" height="48" alt="C" />
   </a>
+<br>Salesforce
+</td>
+</tr>
+</table>
 </p>
 
-<!-- C, C++, Git, Linux, Docker -->
+
 
 ### 🌐 FullStackOpen — Skills in Progress
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" width="50" />
-  <img src="https://skillicons.dev/icons?i=ts" width="50" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
-  <img src="https://skillicons.dev/icons?i=express" width="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
-  <img src="https://skillicons.dev/icons?i=redux" width="50" />
-  <img src="https://skillicons.dev/icons?i=webpack" width="50" />
-  <img src="https://skillicons.dev/icons?i=jest" width="50" />
-  <img src="https://skillicons.dev/icons?i=graphql" width="50" />
-</p>
-
 <!-- JS, TS, React, Node, Express, MongoDB, Redux, Webpack, Jest, GraphQL -->
-
+<p align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" />
+<br>JS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TS" />
+<br>TS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJs" />
+<br>NodeJs
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="WebPack" />
+<br>WebPack
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+<br>Jest
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br>GraphQL
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
