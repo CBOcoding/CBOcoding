@@ -1,7 +1,7 @@
 ## Ciao, I'm Claudio! 👋  
 
 <p align="center">
-  <strong>Developer & 42 Hive Helsinki Student</strong><br>
+  <strong>Developer & 42 Hive Helsinki Alumni</strong><br>
   <em>C, C++, Linux/macOS/Windows | Future Full-Stack Engineer</em>
 </p>
 
