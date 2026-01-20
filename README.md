@@ -45,6 +45,10 @@
   </a>
 <br>Salesforce
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="GitHub" />
+<br>Figma
+</td>
 </tr>
 </table>
 </p>
